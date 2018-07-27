@@ -15,7 +15,7 @@ Run 'openpose.py' (on line 416 change use_webcam to true if you want to run thro
 ## Performance
 InceptionV3 performance on the test data:
 
-| Stat             | Score       |
+| Statististic     | Score       |
 | ---------------- | ----------- |
 | Accuracy         | 0.999       |
 
