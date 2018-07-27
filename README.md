@@ -6,9 +6,9 @@ Trained using the InceptionV3 model on a custom image dataset of 36 different po
 
 ## Installation
 Requires the OpenPose Python API to be properly installed:
-https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/modules/python_module.md
-Place this project in the compiled OpenPose directory e.g. 'C:/openpose-master/Release/python/openpose/this_project'
-Download the model from ... and place it in the 'model' folder
+https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/modules/python_module.md \n
+Place this project in the compiled OpenPose directory e.g. 'C:/openpose-master/Release/python/openpose/this_project' \n
+Download the model from ... and place it in the 'model' folder \n
 
 ## Usage
 Run 'openpose.py' (on line 416 change use_webcam to true if you want to run through a webcam or image_dir to your own directory to run through a folder of images)
