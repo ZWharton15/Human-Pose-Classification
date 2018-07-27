@@ -13,6 +13,10 @@ Trained using the InceptionV3 model on a custom image dataset of 36 different po
 Run 'openpose.py' (on line 416 change use_webcam to true if you want to run through a webcam or image_dir to your own directory to run through a folder of images)
 
 ## Performance
+InceptionV3 performance on the test data:
+|                  | Score       |
+| ---------------- | ----------- |
+| Accuracy         | 0.999       |
 
 
 ## Credits
